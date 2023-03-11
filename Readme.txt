@@ -1,4 +1,4 @@
-in order to build the minimal thread synchronization
+in order to build and run the minimal thread synchronization
 
 cd build
 cmake ..
